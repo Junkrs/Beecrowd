@@ -1,7 +1,7 @@
 # Beecrowd Problems
 Beecrowd solved problems in the following languages
 
-[![ForTheBadge_C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()[![ForTheBadge_python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+[![ForTheBadge_C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]() [![ForTheBadge_python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
 
 ##
 
