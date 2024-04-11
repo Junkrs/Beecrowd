@@ -5,4 +5,4 @@ B = int(input())
 
 X = A + B
 
-print('X = %d\n' % X)
+print('X = %d' % X)
