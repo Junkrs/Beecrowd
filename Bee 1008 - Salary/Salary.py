@@ -6,5 +6,5 @@ PHORA = float(input())
 
 SAL = HORA * PHORA
 
-print('NUMBER = %i' % NUM);
-print('SALARY = U$ %.2f' % SAL);
+print('NUMBER = %i' % NUM)
+print('SALARY = U$ %.2f' % SAL)
