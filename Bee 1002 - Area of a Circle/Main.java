@@ -1,4 +1,4 @@
-//Bee 1001 - Extremely Basic
+//Bee 1002 - Area of a Circle
 
 import java.io.IOException; 
 import java.util.*;
@@ -6,15 +6,14 @@ public class Main {
  
     public static void main(String[] args) throws IOException {
         Scanner in = new Scanner(System.in);
-        int A, B;
+        double R, p, A;
 
-        A = in.nextInt();
-        B = in.nextInt();
+        p = 3.14159;
+        R = in.nextFloat();
 
-        int X = A + B;
+        A = p * (R*R);
 
-        System.out.println("X = " + X);
+        System.out.println(String.format("A=%.4f", A));
         in.close();
     }
- 
 }
