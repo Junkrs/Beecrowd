@@ -1,3 +1,5 @@
+//Bee 1003 - Simple Sum
+
 #include <stdio.h>
 int main(){
 	int A, B, SOMA;
