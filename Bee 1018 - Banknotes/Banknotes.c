@@ -1,4 +1,5 @@
 //Bee 1018 - Banknotes
+
 #include <stdio.h>
 int main()
 {
